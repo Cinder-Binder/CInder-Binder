@@ -1,4 +1,4 @@
-### Hi there , I'm Vijay.
+### Hey you. You're finally here, I'm Vijay.
 ![kazuma](https://github.com/Cinder-Binder/gifs/blob/master/1500815674_tumblr_om82z9x1z01w39871o1_500.gif)
 ## Github stats
 ![vijay's github stats](https://github-readme-stats.vercel.app/api?username=Cinder-Binder&show_icons=true&theme=tokyonight)
