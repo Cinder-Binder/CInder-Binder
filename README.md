@@ -1,5 +1,5 @@
 ### Hey you. You're finally here, I'm Vijay.
-![kazuma](https://github.com/Cinder-Binder/gifs/blob/master/tenor.gif)
+![issei](https://i.gifer.com/9woN.gif)
 
 ## Github stats
 ![vijay's github stats](https://github-readme-stats.vercel.app/api?username=Cinder-Binder&show_icons=true&theme=tokyonight)
