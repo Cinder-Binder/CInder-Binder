@@ -1,4 +1,4 @@
-### Welcome weary traveller, I'm Vijay and welcome to my humble abode.
+### Hello weary traveller, I'm Vijay and welcome to my humble abode.
 ---
 ![issei](https://github.com/Cinder-Binder/gifs/blob/master/August-Alsina-Reacts-To-Jada-Pinkett-Smith-Discussing-Their-Entanglement.gif)
 
