@@ -3,9 +3,9 @@
 ![issei](https://github.com/Cinder-Binder/gifs/blob/master/August-Alsina-Reacts-To-Jada-Pinkett-Smith-Discussing-Their-Entanglement.gif)
 
 ## Github stats
-![vijay's github stats](https://github-readme-stats.vercel.app/api?username=Cinder-Binder&show_icons=true&theme=dark)
+![vijay's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Cinders&show_icons=true&theme=dark)
 ## top languages used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cinder-Binder&layout=compact&theme=dark&hide=Objective-c,Shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Cinders&layout=compact&theme=dark&hide=Objective-c,Shell)
 <!--
 **Cinder-Binder/CInder-Binder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
